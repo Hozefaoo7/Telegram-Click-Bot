@@ -32,7 +32,8 @@ The script supports @Litecoin_click_bot, @Zcash_click_bot, @BCH_clickbot, @Bitco
       * `auth` used to authourise/login user
       * `cache` needed to store channel id and hash to avoid authorising each time a user runs the script as this could lead to flood wait errors on the telegram api.
       * `inf` ensures the script keeps running unless user manually terminates the program
-3. After the first time setting up the script and logging in on the device, never use `auth` again unless you get logged out. Always use `check` to see if you are still logged in.
-
+3. When asked for your code, go to your telegram app and copy the code sent to you from telegram
+4. After the first time setting up the script and logging in on the device, never use `auth` again unless you get logged out. Always use `check` to see if you are still logged in.
+![screenshot](https://github.com/yande-eghosa/Telegram-Click-Bot/raw/master/IMG-20201127-WA0025.jpg)
 ## Licence
 MIT
