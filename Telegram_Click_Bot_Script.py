@@ -3,10 +3,10 @@
 Uncomment to select target bot
 '''
 namer='@Litecoin_click_bot'
-#namer='@Zcash_click_bot'
-# namer='@BCH_clickbot'
-# namer='@BitcoinClick_bot'
-# namer='@Dogecoin_click_bot'
+namer='@Zcash_click_bot'
+namer='@BCH_clickbot'
+namer='@BitcoinClick_bot'
+namer='@Dogecoin_click_bot'
 
 #Enter phone number 
 #eg: +2348111111
